@@ -6,7 +6,7 @@
 
 <!--Intro start-->
 # 💫 About Me:
-I’m currently working onPython, C++, Java/Kotlin, Swift, JS, TS, and React..<br><br>I’m currently learning more about blockchain technology<br><br>I have a huge interest in cryptography and digital forensics<br><br>Feel free to reach me at jaredmarcus@icloud.com
+I’m currently working on Python, C++, Java/Kotlin, Swift, JS, TS, and React.<br><br>I’m currently learning more about blockchain technology<br><br>I have a huge interest in cryptography and digital forensics<br><br>Feel free to reach me at jaredmarcus@icloud.com
 <!--Intro end-->
 
 # 💻 Tech Stack:
