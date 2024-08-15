@@ -1,7 +1,7 @@
 <!--- snake -->
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/resources/grid-snake.svg" alt="snake">
+    <img src="/Resources/grid-snake.svg" alt="snake">
   </a>
 </div>
 
