@@ -7,9 +7,11 @@
 
 <!--- snake -->
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/Resources/grid-snake.svg" alt="snake">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaredmarcus/jaredmarcus/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaredmarcus/jaredmarcus/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jaredmarcus/jaredmarcus/output/github-snake.svg" />
+  </picture>
 </div>
 <!--- snake end -->
 
