@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 3em; color: #e74c3c; text-align: center; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Jared</h1>
-  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">I'm a hobbyist. Please take a look at my <a href="" target="_blank">online resume</a> for more information.</h4>
+  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">I'm a hobbyist. Please take a look at my <a href="https://jaredmarcus.github.io/" target="_blank">online resume</a> for more information.</h4>
 </div>
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
@@ -63,8 +63,8 @@
       <a href="github.com/jaredmarcus" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=jaredmarcus&style=for-the-badge&label=PROFILE+VIEWS" alt="views count" style="height: 30px; margin: 0 5px;">
       </a>
-      <a href="https://jaredmarcus.github.io/jaredmarcus/" target="_blank">
-        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fjaredmarcus.github.io%2Fjaredmarcus%2F" alt="website" style="height: 30px; margin: 0 5px;">
+      <a href="https://jaredmarcus.github.io/" target="_blank">
+        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fjaredmarcus.github.io" alt="website" style="height: 30px; margin: 0 5px;">
       </a>
     </p>
     <p style="font-size: 1.2em;">
