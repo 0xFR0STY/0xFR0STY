@@ -85,7 +85,7 @@
         <table align="center">
           <tr border="0">
             <td width="50%" align="center"> 
-              <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=jaredmarcus&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+              <img align="center" width="100%" <img src="https://github-readme-streak-stats.herokuapp.com?user=jaredmarcus&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
             </td>
             <td width="50%" align="center">
               <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=jaredmarcus&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
@@ -181,5 +181,14 @@
   
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/JaredMacias222) 
+<h3 style="color: #2e8b57; font-size: 1.8em;">Support</h3>
+<p style="font-size: 1.2em;">If you’re feeling generous or just really like caffeine, consider buying me a coffee:</p>
+
+<div align="left" style="margin-top: 20px;">
+  <a href="https://buymeacoffee.com/jaredmarcus" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px; width: 151.9px; border: 2px solid #ff6347; border-radius: 5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+  </a>
+  <a href="https://paypal.me/https://www.paypal.me/JaredMacias222" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" style="height: 42px; width: 151.9px; border: 2px solid #ff6347; border-radius: 5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+  </a>
+</div>
