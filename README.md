@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 3em; color: #e74c3c; text-align: center; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Jared</h1>
-  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">I'm a hobbyist. Please take a look at my <a href="https://jaredmarcus.github.io/" target="_blank">online resume</a> for more information.</h4>
+  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">I'm a hobbyist. Please take a look at my <a href="https://0xfr0sty.github.io" target="_blank">online resume</a> for more information.</h4>
 </div>
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
