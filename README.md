@@ -1,6 +1,9 @@
 <div align="center">
   <h1 style="font-size: 3em; color: #e74c3c; text-align: center; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Jared</h1>
-  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">I'm a hobbyist. Please take a look at my <a href="https://0xfr0sty.github.io" target="_blank">online resume</a> for more information.</h4>
+  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">I'm am just a hobbyist that enjoys various things</h4>
+  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">Check Out My Sites: </h4>
+  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;"><a href="https://jaredm.me" target="_blank"> Resume </a> &nbsp; <a href="https://0xfr0sty.github.io" target="_blank"> Blog </a></h4>
+   
 </div>
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
@@ -8,9 +11,9 @@
 <!--- snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaredmarcus/jaredmarcus/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaredmarcus/jaredmarcus/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jaredmarcus/jaredmarcus/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xfr0sty/0xfr0sty/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xfr0sty/0xfr0sty/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/0xfr0sty/0xfr0sty/output/github-snake.svg" />
   </picture>
 </div>
 <!--- snake end -->
@@ -61,15 +64,15 @@
     <p style="font-size: 1.2em;"> Just your casual hobbyist. <br> Love Cryptography, Reverse Engineering and Malware Analysis. 
     <p style="font-size: 1.2em;">
       <a href="github.com/jaredmarcus" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=jaredmarcus&style=for-the-badge&label=PROFILE+VIEWS" alt="views count" style="height: 30px; margin: 0 5px;">
+        <img src="https://komarev.com/ghpvc/?username=0xfr0sty&style=for-the-badge&label=PROFILE+VIEWS" alt="views count" style="height: 30px; margin: 0 5px;">
       </a>
       <a href="https://jaredmarcus.github.io/" target="_blank">
-        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fjaredmarcus.github.io" alt="website" style="height: 30px; margin: 0 5px;">
+        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fjaredm.me" alt="website" style="height: 30px; margin: 0 5px;">
       </a>
     </p>
     <p style="font-size: 1.2em;">
-      <a href="github.com/jaredmarcus" target="_blank">
-        <img src="https://img.shields.io/github/license/jaredmarcus/jaredmarcus?color=purple&style=for-the-badge" alt="license" style="height: 30px; margin: 0 5px;">
+      <a href="github.com/0xfr0sty" target="_blank">
+        <img src="https://img.shields.io/github/license/0xfr0sty/0xfr0sty?color=purple&style=for-the-badge" alt="license" style="height: 30px; margin: 0 5px;">
       </a>
     </p>
   </div>
@@ -85,17 +88,17 @@
         <table align="center">
           <tr border="0">
             <td width="50%" align="center"> 
-              <img align="center" width="100%" <img src="https://github-readme-streak-stats.herokuapp.com?user=jaredmarcus&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+              <img align="center" width="100%" <img src="https://github-readme-streak-stats.herokuapp.com?user=0xfr0sty&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
             </td>
             <td width="50%" align="center">
-              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=jaredmarcus&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
+              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=0xfr0sty&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
             </td>
           </tr>
         </table>
         <div align="center">
           <p>
-            <a href="https://github.com/jaredmarcus" target="_blank">
-              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaredmarcus&theme=gruvbox&hide_border=true" alt="GitHub Profile Summary" style="border-radius: 10px; margin: 0 5px;">
+            <a href="https://github.com/0xfr0sty" target="_blank">
+              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xfr0sty&theme=gruvbox&hide_border=true" alt="GitHub Profile Summary" style="border-radius: 10px; margin: 0 5px;">
             </a>
           </p>
         </div>
@@ -105,12 +108,12 @@
         <table align="center">
           <tr border="0">
             <td width="50%" align="center"> 
-              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaredmarcus&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by repo">
+              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xfr0sty&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by repo">
               <br></br>
-              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaredmarcus&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by commit">
+              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xfr0sty&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by commit">
             </td>
             <td width="50%" align="center">
-              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredmarcus&langs_count=6&theme=gruvbox&hide_border=true" alt="overall Top Langs">
+              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xfr0sty&langs_count=6&theme=gruvbox&hide_border=true" alt="overall Top Langs">
             </td>
           </tr>
         </table>
@@ -121,8 +124,8 @@
     <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">Recent Activity</summary>
     <div align="center">
       <p>
-        <a href="https://github.com/jaredmarcus" target="_blank">
-          <img alt="Jared's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jaredmarcus&theme=github-compact&hide_border=true" style="border-radius: 10px; margin: 0 5px;">
+        <a href="https://github.com/0xfr0sty" target="_blank">
+          <img alt="Jared's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=0xfr0sty&theme=github-compact&hide_border=true" style="border-radius: 10px; margin: 0 5px;">
         </a>
       </p>
     </div>
